@@ -1,0 +1,20 @@
+[project]
+name = "gspace"
+version = "0.1.0"
+description = "Geometric subspaces for algebraic computation in LLMs"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.0",
+    "transformers>=4.40",
+    "accelerate",
+    "datasets",
+    "scikit-learn",
+    "matplotlib",
+    "numpy",
+    "tqdm",
+    "pandas",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
