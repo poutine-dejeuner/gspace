@@ -1,9 +1,5 @@
 # Règles Slurm — Cluster `cursor`
 
-les compute nodes utilisent des gpu b300. Nous avons eut des difficultés
-a construire des venv qui les supportent correctement, considère ~/vllm-env
-pour voir d'ou commencer quand tu créé un nouveau venv.
-
 ## Toujours demander le **minimum** de ressources
 
 Chaque job slurm **doit** spécifier explicitement CPUs, RAM, et GPUs. **Ne jamais** laisser slurm allouer

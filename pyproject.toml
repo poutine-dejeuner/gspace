@@ -13,6 +13,10 @@ dependencies = [
     "numpy",
     "tqdm",
     "pandas",
+    "peft>=0.20.0",
+    "html2text>=2025.4.15",
+    "huggingface-hub>=1.29.0",
+    "bitsandbytes>=0.50.2",
 ]
 
 [build-system]

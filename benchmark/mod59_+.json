@@ -1,0 +1,1602 @@
+[
+  {
+    "a": 53,
+    "b": 3,
+    "op": "+",
+    "modulus": 59,
+    "result": 56,
+    "prompt": "Compute 53 + 3 mod 59: 53 + 3 mod 59 ="
+  },
+  {
+    "a": 40,
+    "b": 24,
+    "op": "+",
+    "modulus": 59,
+    "result": 5,
+    "prompt": "Compute 40 + 24 mod 59: 40 + 24 mod 59 ="
+  },
+  {
+    "a": 0,
+    "b": 0,
+    "op": "+",
+    "modulus": 59,
+    "result": 0,
+    "prompt": "Compute 0 + 0 mod 59: 0 + 0 mod 59 ="
+  },
+  {
+    "a": 12,
+    "b": 54,
+    "op": "+",
+    "modulus": 59,
+    "result": 7,
+    "prompt": "Compute 12 + 54 mod 59: 12 + 54 mod 59 ="
+  },
+  {
+    "a": 41,
+    "b": 44,
+    "op": "+",
+    "modulus": 59,
+    "result": 26,
+    "prompt": "Compute 41 + 44 mod 59: 41 + 44 mod 59 ="
+  },
+  {
+    "a": 25,
+    "b": 45,
+    "op": "+",
+    "modulus": 59,
+    "result": 11,
+    "prompt": "Compute 25 + 45 mod 59: 25 + 45 mod 59 ="
+  },
+  {
+    "a": 19,
+    "b": 31,
+    "op": "+",
+    "modulus": 59,
+    "result": 50,
+    "prompt": "Compute 19 + 31 mod 59: 19 + 31 mod 59 ="
+  },
+  {
+    "a": 45,
+    "b": 5,
+    "op": "+",
+    "modulus": 59,
+    "result": 50,
+    "prompt": "Compute 45 + 5 mod 59: 45 + 5 mod 59 ="
+  },
+  {
+    "a": 40,
+    "b": 6,
+    "op": "+",
+    "modulus": 59,
+    "result": 46,
+    "prompt": "Compute 40 + 6 mod 59: 40 + 6 mod 59 ="
+  },
+  {
+    "a": 0,
+    "b": 25,
+    "op": "+",
+    "modulus": 59,
+    "result": 25,
+    "prompt": "Compute 0 + 25 mod 59: 0 + 25 mod 59 ="
+  },
+  {
+    "a": 26,
+    "b": 25,
+    "op": "+",
+    "modulus": 59,
+    "result": 51,
+    "prompt": "Compute 26 + 25 mod 59: 26 + 25 mod 59 ="
+  },
+  {
+    "a": 45,
+    "b": 0,
+    "op": "+",
+    "modulus": 59,
+    "result": 45,
+    "prompt": "Compute 45 + 0 mod 59: 45 + 0 mod 59 ="
+  },
+  {
+    "a": 9,
+    "b": 3,
+    "op": "+",
+    "modulus": 59,
+    "result": 12,
+    "prompt": "Compute 9 + 3 mod 59: 9 + 3 mod 59 ="
+  },
+  {
+    "a": 52,
+    "b": 54,
+    "op": "+",
+    "modulus": 59,
+    "result": 47,
+    "prompt": "Compute 52 + 54 mod 59: 52 + 54 mod 59 ="
+  },
+  {
+    "a": 14,
+    "b": 1,
+    "op": "+",
+    "modulus": 59,
+    "result": 15,
+    "prompt": "Compute 14 + 1 mod 59: 14 + 1 mod 59 ="
+  },
+  {
+    "a": 24,
+    "b": 56,
+    "op": "+",
+    "modulus": 59,
+    "result": 21,
+    "prompt": "Compute 24 + 56 mod 59: 24 + 56 mod 59 ="
+  },
+  {
+    "a": 38,
+    "b": 33,
+    "op": "+",
+    "modulus": 59,
+    "result": 12,
+    "prompt": "Compute 38 + 33 mod 59: 38 + 33 mod 59 ="
+  },
+  {
+    "a": 22,
+    "b": 50,
+    "op": "+",
+    "modulus": 59,
+    "result": 13,
+    "prompt": "Compute 22 + 50 mod 59: 22 + 50 mod 59 ="
+  },
+  {
+    "a": 41,
+    "b": 4,
+    "op": "+",
+    "modulus": 59,
+    "result": 45,
+    "prompt": "Compute 41 + 4 mod 59: 41 + 4 mod 59 ="
+  },
+  {
+    "a": 36,
+    "b": 33,
+    "op": "+",
+    "modulus": 59,
+    "result": 10,
+    "prompt": "Compute 36 + 33 mod 59: 36 + 33 mod 59 ="
+  },
+  {
+    "a": 56,
+    "b": 54,
+    "op": "+",
+    "modulus": 59,
+    "result": 51,
+    "prompt": "Compute 56 + 54 mod 59: 56 + 54 mod 59 ="
+  },
+  {
+    "a": 8,
+    "b": 31,
+    "op": "+",
+    "modulus": 59,
+    "result": 39,
+    "prompt": "Compute 8 + 31 mod 59: 8 + 31 mod 59 ="
+  },
+  {
+    "a": 48,
+    "b": 39,
+    "op": "+",
+    "modulus": 59,
+    "result": 28,
+    "prompt": "Compute 48 + 39 mod 59: 48 + 39 mod 59 ="
+  },
+  {
+    "a": 49,
+    "b": 31,
+    "op": "+",
+    "modulus": 59,
+    "result": 21,
+    "prompt": "Compute 49 + 31 mod 59: 49 + 31 mod 59 ="
+  },
+  {
+    "a": 23,
+    "b": 49,
+    "op": "+",
+    "modulus": 59,
+    "result": 13,
+    "prompt": "Compute 23 + 49 mod 59: 23 + 49 mod 59 ="
+  },
+  {
+    "a": 3,
+    "b": 29,
+    "op": "+",
+    "modulus": 59,
+    "result": 32,
+    "prompt": "Compute 3 + 29 mod 59: 3 + 29 mod 59 ="
+  },
+  {
+    "a": 50,
+    "b": 0,
+    "op": "+",
+    "modulus": 59,
+    "result": 50,
+    "prompt": "Compute 50 + 0 mod 59: 50 + 0 mod 59 ="
+  },
+  {
+    "a": 38,
+    "b": 46,
+    "op": "+",
+    "modulus": 59,
+    "result": 25,
+    "prompt": "Compute 38 + 46 mod 59: 38 + 46 mod 59 ="
+  },
+  {
+    "a": 35,
+    "b": 55,
+    "op": "+",
+    "modulus": 59,
+    "result": 31,
+    "prompt": "Compute 35 + 55 mod 59: 35 + 55 mod 59 ="
+  },
+  {
+    "a": 21,
+    "b": 19,
+    "op": "+",
+    "modulus": 59,
+    "result": 40,
+    "prompt": "Compute 21 + 19 mod 59: 21 + 19 mod 59 ="
+  },
+  {
+    "a": 49,
+    "b": 53,
+    "op": "+",
+    "modulus": 59,
+    "result": 43,
+    "prompt": "Compute 49 + 53 mod 59: 49 + 53 mod 59 ="
+  },
+  {
+    "a": 0,
+    "b": 20,
+    "op": "+",
+    "modulus": 59,
+    "result": 20,
+    "prompt": "Compute 0 + 20 mod 59: 0 + 20 mod 59 ="
+  },
+  {
+    "a": 25,
+    "b": 5,
+    "op": "+",
+    "modulus": 59,
+    "result": 30,
+    "prompt": "Compute 25 + 5 mod 59: 25 + 5 mod 59 ="
+  },
+  {
+    "a": 18,
+    "b": 33,
+    "op": "+",
+    "modulus": 59,
+    "result": 51,
+    "prompt": "Compute 18 + 33 mod 59: 18 + 33 mod 59 ="
+  },
+  {
+    "a": 52,
+    "b": 9,
+    "op": "+",
+    "modulus": 59,
+    "result": 2,
+    "prompt": "Compute 52 + 9 mod 59: 52 + 9 mod 59 ="
+  },
+  {
+    "a": 19,
+    "b": 4,
+    "op": "+",
+    "modulus": 59,
+    "result": 23,
+    "prompt": "Compute 19 + 4 mod 59: 19 + 4 mod 59 ="
+  },
+  {
+    "a": 6,
+    "b": 3,
+    "op": "+",
+    "modulus": 59,
+    "result": 9,
+    "prompt": "Compute 6 + 3 mod 59: 6 + 3 mod 59 ="
+  },
+  {
+    "a": 49,
+    "b": 0,
+    "op": "+",
+    "modulus": 59,
+    "result": 49,
+    "prompt": "Compute 49 + 0 mod 59: 49 + 0 mod 59 ="
+  },
+  {
+    "a": 57,
+    "b": 22,
+    "op": "+",
+    "modulus": 59,
+    "result": 20,
+    "prompt": "Compute 57 + 22 mod 59: 57 + 22 mod 59 ="
+  },
+  {
+    "a": 49,
+    "b": 46,
+    "op": "+",
+    "modulus": 59,
+    "result": 36,
+    "prompt": "Compute 49 + 46 mod 59: 49 + 46 mod 59 ="
+  },
+  {
+    "a": 2,
+    "b": 27,
+    "op": "+",
+    "modulus": 59,
+    "result": 29,
+    "prompt": "Compute 2 + 27 mod 59: 2 + 27 mod 59 ="
+  },
+  {
+    "a": 56,
+    "b": 37,
+    "op": "+",
+    "modulus": 59,
+    "result": 34,
+    "prompt": "Compute 56 + 37 mod 59: 56 + 37 mod 59 ="
+  },
+  {
+    "a": 37,
+    "b": 52,
+    "op": "+",
+    "modulus": 59,
+    "result": 30,
+    "prompt": "Compute 37 + 52 mod 59: 37 + 52 mod 59 ="
+  },
+  {
+    "a": 41,
+    "b": 3,
+    "op": "+",
+    "modulus": 59,
+    "result": 44,
+    "prompt": "Compute 41 + 3 mod 59: 41 + 3 mod 59 ="
+  },
+  {
+    "a": 27,
+    "b": 30,
+    "op": "+",
+    "modulus": 59,
+    "result": 57,
+    "prompt": "Compute 27 + 30 mod 59: 27 + 30 mod 59 ="
+  },
+  {
+    "a": 49,
+    "b": 6,
+    "op": "+",
+    "modulus": 59,
+    "result": 55,
+    "prompt": "Compute 49 + 6 mod 59: 49 + 6 mod 59 ="
+  },
+  {
+    "a": 33,
+    "b": 8,
+    "op": "+",
+    "modulus": 59,
+    "result": 41,
+    "prompt": "Compute 33 + 8 mod 59: 33 + 8 mod 59 ="
+  },
+  {
+    "a": 44,
+    "b": 51,
+    "op": "+",
+    "modulus": 59,
+    "result": 36,
+    "prompt": "Compute 44 + 51 mod 59: 44 + 51 mod 59 ="
+  },
+  {
+    "a": 4,
+    "b": 2,
+    "op": "+",
+    "modulus": 59,
+    "result": 6,
+    "prompt": "Compute 4 + 2 mod 59: 4 + 2 mod 59 ="
+  },
+  {
+    "a": 16,
+    "b": 29,
+    "op": "+",
+    "modulus": 59,
+    "result": 45,
+    "prompt": "Compute 16 + 29 mod 59: 16 + 29 mod 59 ="
+  },
+  {
+    "a": 13,
+    "b": 6,
+    "op": "+",
+    "modulus": 59,
+    "result": 19,
+    "prompt": "Compute 13 + 6 mod 59: 13 + 6 mod 59 ="
+  },
+  {
+    "a": 51,
+    "b": 36,
+    "op": "+",
+    "modulus": 59,
+    "result": 28,
+    "prompt": "Compute 51 + 36 mod 59: 51 + 36 mod 59 ="
+  },
+  {
+    "a": 48,
+    "b": 33,
+    "op": "+",
+    "modulus": 59,
+    "result": 22,
+    "prompt": "Compute 48 + 33 mod 59: 48 + 33 mod 59 ="
+  },
+  {
+    "a": 52,
+    "b": 45,
+    "op": "+",
+    "modulus": 59,
+    "result": 38,
+    "prompt": "Compute 52 + 45 mod 59: 52 + 45 mod 59 ="
+  },
+  {
+    "a": 48,
+    "b": 11,
+    "op": "+",
+    "modulus": 59,
+    "result": 0,
+    "prompt": "Compute 48 + 11 mod 59: 48 + 11 mod 59 ="
+  },
+  {
+    "a": 25,
+    "b": 31,
+    "op": "+",
+    "modulus": 59,
+    "result": 56,
+    "prompt": "Compute 25 + 31 mod 59: 25 + 31 mod 59 ="
+  },
+  {
+    "a": 18,
+    "b": 39,
+    "op": "+",
+    "modulus": 59,
+    "result": 57,
+    "prompt": "Compute 18 + 39 mod 59: 18 + 39 mod 59 ="
+  },
+  {
+    "a": 10,
+    "b": 38,
+    "op": "+",
+    "modulus": 59,
+    "result": 48,
+    "prompt": "Compute 10 + 38 mod 59: 10 + 38 mod 59 ="
+  },
+  {
+    "a": 58,
+    "b": 49,
+    "op": "+",
+    "modulus": 59,
+    "result": 48,
+    "prompt": "Compute 58 + 49 mod 59: 58 + 49 mod 59 ="
+  },
+  {
+    "a": 40,
+    "b": 36,
+    "op": "+",
+    "modulus": 59,
+    "result": 17,
+    "prompt": "Compute 40 + 36 mod 59: 40 + 36 mod 59 ="
+  },
+  {
+    "a": 33,
+    "b": 1,
+    "op": "+",
+    "modulus": 59,
+    "result": 34,
+    "prompt": "Compute 33 + 1 mod 59: 33 + 1 mod 59 ="
+  },
+  {
+    "a": 52,
+    "b": 57,
+    "op": "+",
+    "modulus": 59,
+    "result": 50,
+    "prompt": "Compute 52 + 57 mod 59: 52 + 57 mod 59 ="
+  },
+  {
+    "a": 0,
+    "b": 19,
+    "op": "+",
+    "modulus": 59,
+    "result": 19,
+    "prompt": "Compute 0 + 19 mod 59: 0 + 19 mod 59 ="
+  },
+  {
+    "a": 0,
+    "b": 31,
+    "op": "+",
+    "modulus": 59,
+    "result": 31,
+    "prompt": "Compute 0 + 31 mod 59: 0 + 31 mod 59 ="
+  },
+  {
+    "a": 58,
+    "b": 38,
+    "op": "+",
+    "modulus": 59,
+    "result": 37,
+    "prompt": "Compute 58 + 38 mod 59: 58 + 38 mod 59 ="
+  },
+  {
+    "a": 5,
+    "b": 24,
+    "op": "+",
+    "modulus": 59,
+    "result": 29,
+    "prompt": "Compute 5 + 24 mod 59: 5 + 24 mod 59 ="
+  },
+  {
+    "a": 33,
+    "b": 53,
+    "op": "+",
+    "modulus": 59,
+    "result": 27,
+    "prompt": "Compute 33 + 53 mod 59: 33 + 53 mod 59 ="
+  },
+  {
+    "a": 40,
+    "b": 51,
+    "op": "+",
+    "modulus": 59,
+    "result": 32,
+    "prompt": "Compute 40 + 51 mod 59: 40 + 51 mod 59 ="
+  },
+  {
+    "a": 6,
+    "b": 23,
+    "op": "+",
+    "modulus": 59,
+    "result": 29,
+    "prompt": "Compute 6 + 23 mod 59: 6 + 23 mod 59 ="
+  },
+  {
+    "a": 29,
+    "b": 8,
+    "op": "+",
+    "modulus": 59,
+    "result": 37,
+    "prompt": "Compute 29 + 8 mod 59: 29 + 8 mod 59 ="
+  },
+  {
+    "a": 24,
+    "b": 26,
+    "op": "+",
+    "modulus": 59,
+    "result": 50,
+    "prompt": "Compute 24 + 26 mod 59: 24 + 26 mod 59 ="
+  },
+  {
+    "a": 5,
+    "b": 39,
+    "op": "+",
+    "modulus": 59,
+    "result": 44,
+    "prompt": "Compute 5 + 39 mod 59: 5 + 39 mod 59 ="
+  },
+  {
+    "a": 48,
+    "b": 28,
+    "op": "+",
+    "modulus": 59,
+    "result": 17,
+    "prompt": "Compute 48 + 28 mod 59: 48 + 28 mod 59 ="
+  },
+  {
+    "a": 50,
+    "b": 5,
+    "op": "+",
+    "modulus": 59,
+    "result": 55,
+    "prompt": "Compute 50 + 5 mod 59: 50 + 5 mod 59 ="
+  },
+  {
+    "a": 15,
+    "b": 42,
+    "op": "+",
+    "modulus": 59,
+    "result": 57,
+    "prompt": "Compute 15 + 42 mod 59: 15 + 42 mod 59 ="
+  },
+  {
+    "a": 48,
+    "b": 57,
+    "op": "+",
+    "modulus": 59,
+    "result": 46,
+    "prompt": "Compute 48 + 57 mod 59: 48 + 57 mod 59 ="
+  },
+  {
+    "a": 27,
+    "b": 1,
+    "op": "+",
+    "modulus": 59,
+    "result": 28,
+    "prompt": "Compute 27 + 1 mod 59: 27 + 1 mod 59 ="
+  },
+  {
+    "a": 42,
+    "b": 49,
+    "op": "+",
+    "modulus": 59,
+    "result": 32,
+    "prompt": "Compute 42 + 49 mod 59: 42 + 49 mod 59 ="
+  },
+  {
+    "a": 4,
+    "b": 51,
+    "op": "+",
+    "modulus": 59,
+    "result": 55,
+    "prompt": "Compute 4 + 51 mod 59: 4 + 51 mod 59 ="
+  },
+  {
+    "a": 52,
+    "b": 4,
+    "op": "+",
+    "modulus": 59,
+    "result": 56,
+    "prompt": "Compute 52 + 4 mod 59: 52 + 4 mod 59 ="
+  },
+  {
+    "a": 36,
+    "b": 46,
+    "op": "+",
+    "modulus": 59,
+    "result": 23,
+    "prompt": "Compute 36 + 46 mod 59: 36 + 46 mod 59 ="
+  },
+  {
+    "a": 31,
+    "b": 2,
+    "op": "+",
+    "modulus": 59,
+    "result": 33,
+    "prompt": "Compute 31 + 2 mod 59: 31 + 2 mod 59 ="
+  },
+  {
+    "a": 23,
+    "b": 57,
+    "op": "+",
+    "modulus": 59,
+    "result": 21,
+    "prompt": "Compute 23 + 57 mod 59: 23 + 57 mod 59 ="
+  },
+  {
+    "a": 55,
+    "b": 9,
+    "op": "+",
+    "modulus": 59,
+    "result": 5,
+    "prompt": "Compute 55 + 9 mod 59: 55 + 9 mod 59 ="
+  },
+  {
+    "a": 57,
+    "b": 0,
+    "op": "+",
+    "modulus": 59,
+    "result": 57,
+    "prompt": "Compute 57 + 0 mod 59: 57 + 0 mod 59 ="
+  },
+  {
+    "a": 40,
+    "b": 45,
+    "op": "+",
+    "modulus": 59,
+    "result": 26,
+    "prompt": "Compute 40 + 45 mod 59: 40 + 45 mod 59 ="
+  },
+  {
+    "a": 31,
+    "b": 5,
+    "op": "+",
+    "modulus": 59,
+    "result": 36,
+    "prompt": "Compute 31 + 5 mod 59: 31 + 5 mod 59 ="
+  },
+  {
+    "a": 0,
+    "b": 28,
+    "op": "+",
+    "modulus": 59,
+    "result": 28,
+    "prompt": "Compute 0 + 28 mod 59: 0 + 28 mod 59 ="
+  },
+  {
+    "a": 58,
+    "b": 23,
+    "op": "+",
+    "modulus": 59,
+    "result": 22,
+    "prompt": "Compute 58 + 23 mod 59: 58 + 23 mod 59 ="
+  },
+  {
+    "a": 1,
+    "b": 13,
+    "op": "+",
+    "modulus": 59,
+    "result": 14,
+    "prompt": "Compute 1 + 13 mod 59: 1 + 13 mod 59 ="
+  },
+  {
+    "a": 26,
+    "b": 0,
+    "op": "+",
+    "modulus": 59,
+    "result": 26,
+    "prompt": "Compute 26 + 0 mod 59: 26 + 0 mod 59 ="
+  },
+  {
+    "a": 9,
+    "b": 0,
+    "op": "+",
+    "modulus": 59,
+    "result": 9,
+    "prompt": "Compute 9 + 0 mod 59: 9 + 0 mod 59 ="
+  },
+  {
+    "a": 50,
+    "b": 3,
+    "op": "+",
+    "modulus": 59,
+    "result": 53,
+    "prompt": "Compute 50 + 3 mod 59: 50 + 3 mod 59 ="
+  },
+  {
+    "a": 39,
+    "b": 12,
+    "op": "+",
+    "modulus": 59,
+    "result": 51,
+    "prompt": "Compute 39 + 12 mod 59: 39 + 12 mod 59 ="
+  },
+  {
+    "a": 14,
+    "b": 28,
+    "op": "+",
+    "modulus": 59,
+    "result": 42,
+    "prompt": "Compute 14 + 28 mod 59: 14 + 28 mod 59 ="
+  },
+  {
+    "a": 22,
+    "b": 6,
+    "op": "+",
+    "modulus": 59,
+    "result": 28,
+    "prompt": "Compute 22 + 6 mod 59: 22 + 6 mod 59 ="
+  },
+  {
+    "a": 32,
+    "b": 11,
+    "op": "+",
+    "modulus": 59,
+    "result": 43,
+    "prompt": "Compute 32 + 11 mod 59: 32 + 11 mod 59 ="
+  },
+  {
+    "a": 21,
+    "b": 29,
+    "op": "+",
+    "modulus": 59,
+    "result": 50,
+    "prompt": "Compute 21 + 29 mod 59: 21 + 29 mod 59 ="
+  },
+  {
+    "a": 19,
+    "b": 30,
+    "op": "+",
+    "modulus": 59,
+    "result": 49,
+    "prompt": "Compute 19 + 30 mod 59: 19 + 30 mod 59 ="
+  },
+  {
+    "a": 14,
+    "b": 4,
+    "op": "+",
+    "modulus": 59,
+    "result": 18,
+    "prompt": "Compute 14 + 4 mod 59: 14 + 4 mod 59 ="
+  },
+  {
+    "a": 6,
+    "b": 40,
+    "op": "+",
+    "modulus": 59,
+    "result": 46,
+    "prompt": "Compute 6 + 40 mod 59: 6 + 40 mod 59 ="
+  },
+  {
+    "a": 41,
+    "b": 52,
+    "op": "+",
+    "modulus": 59,
+    "result": 34,
+    "prompt": "Compute 41 + 52 mod 59: 41 + 52 mod 59 ="
+  },
+  {
+    "a": 15,
+    "b": 55,
+    "op": "+",
+    "modulus": 59,
+    "result": 11,
+    "prompt": "Compute 15 + 55 mod 59: 15 + 55 mod 59 ="
+  },
+  {
+    "a": 42,
+    "b": 48,
+    "op": "+",
+    "modulus": 59,
+    "result": 31,
+    "prompt": "Compute 42 + 48 mod 59: 42 + 48 mod 59 ="
+  },
+  {
+    "a": 5,
+    "b": 47,
+    "op": "+",
+    "modulus": 59,
+    "result": 52,
+    "prompt": "Compute 5 + 47 mod 59: 5 + 47 mod 59 ="
+  },
+  {
+    "a": 20,
+    "b": 30,
+    "op": "+",
+    "modulus": 59,
+    "result": 50,
+    "prompt": "Compute 20 + 30 mod 59: 20 + 30 mod 59 ="
+  },
+  {
+    "a": 3,
+    "b": 41,
+    "op": "+",
+    "modulus": 59,
+    "result": 44,
+    "prompt": "Compute 3 + 41 mod 59: 3 + 41 mod 59 ="
+  },
+  {
+    "a": 25,
+    "b": 9,
+    "op": "+",
+    "modulus": 59,
+    "result": 34,
+    "prompt": "Compute 25 + 9 mod 59: 25 + 9 mod 59 ="
+  },
+  {
+    "a": 24,
+    "b": 34,
+    "op": "+",
+    "modulus": 59,
+    "result": 58,
+    "prompt": "Compute 24 + 34 mod 59: 24 + 34 mod 59 ="
+  },
+  {
+    "a": 9,
+    "b": 57,
+    "op": "+",
+    "modulus": 59,
+    "result": 7,
+    "prompt": "Compute 9 + 57 mod 59: 9 + 57 mod 59 ="
+  },
+  {
+    "a": 50,
+    "b": 41,
+    "op": "+",
+    "modulus": 59,
+    "result": 32,
+    "prompt": "Compute 50 + 41 mod 59: 50 + 41 mod 59 ="
+  },
+  {
+    "a": 52,
+    "b": 17,
+    "op": "+",
+    "modulus": 59,
+    "result": 10,
+    "prompt": "Compute 52 + 17 mod 59: 52 + 17 mod 59 ="
+  },
+  {
+    "a": 32,
+    "b": 22,
+    "op": "+",
+    "modulus": 59,
+    "result": 54,
+    "prompt": "Compute 32 + 22 mod 59: 32 + 22 mod 59 ="
+  },
+  {
+    "a": 42,
+    "b": 41,
+    "op": "+",
+    "modulus": 59,
+    "result": 24,
+    "prompt": "Compute 42 + 41 mod 59: 42 + 41 mod 59 ="
+  },
+  {
+    "a": 43,
+    "b": 17,
+    "op": "+",
+    "modulus": 59,
+    "result": 1,
+    "prompt": "Compute 43 + 17 mod 59: 43 + 17 mod 59 ="
+  },
+  {
+    "a": 36,
+    "b": 3,
+    "op": "+",
+    "modulus": 59,
+    "result": 39,
+    "prompt": "Compute 36 + 3 mod 59: 36 + 3 mod 59 ="
+  },
+  {
+    "a": 11,
+    "b": 55,
+    "op": "+",
+    "modulus": 59,
+    "result": 7,
+    "prompt": "Compute 11 + 55 mod 59: 11 + 55 mod 59 ="
+  },
+  {
+    "a": 57,
+    "b": 18,
+    "op": "+",
+    "modulus": 59,
+    "result": 16,
+    "prompt": "Compute 57 + 18 mod 59: 57 + 18 mod 59 ="
+  },
+  {
+    "a": 2,
+    "b": 26,
+    "op": "+",
+    "modulus": 59,
+    "result": 28,
+    "prompt": "Compute 2 + 26 mod 59: 2 + 26 mod 59 ="
+  },
+  {
+    "a": 56,
+    "b": 19,
+    "op": "+",
+    "modulus": 59,
+    "result": 16,
+    "prompt": "Compute 56 + 19 mod 59: 56 + 19 mod 59 ="
+  },
+  {
+    "a": 49,
+    "b": 55,
+    "op": "+",
+    "modulus": 59,
+    "result": 45,
+    "prompt": "Compute 49 + 55 mod 59: 49 + 55 mod 59 ="
+  },
+  {
+    "a": 24,
+    "b": 5,
+    "op": "+",
+    "modulus": 59,
+    "result": 29,
+    "prompt": "Compute 24 + 5 mod 59: 24 + 5 mod 59 ="
+  },
+  {
+    "a": 50,
+    "b": 58,
+    "op": "+",
+    "modulus": 59,
+    "result": 49,
+    "prompt": "Compute 50 + 58 mod 59: 50 + 58 mod 59 ="
+  },
+  {
+    "a": 35,
+    "b": 25,
+    "op": "+",
+    "modulus": 59,
+    "result": 1,
+    "prompt": "Compute 35 + 25 mod 59: 35 + 25 mod 59 ="
+  },
+  {
+    "a": 9,
+    "b": 20,
+    "op": "+",
+    "modulus": 59,
+    "result": 29,
+    "prompt": "Compute 9 + 20 mod 59: 9 + 20 mod 59 ="
+  },
+  {
+    "a": 12,
+    "b": 18,
+    "op": "+",
+    "modulus": 59,
+    "result": 30,
+    "prompt": "Compute 12 + 18 mod 59: 12 + 18 mod 59 ="
+  },
+  {
+    "a": 50,
+    "b": 9,
+    "op": "+",
+    "modulus": 59,
+    "result": 0,
+    "prompt": "Compute 50 + 9 mod 59: 50 + 9 mod 59 ="
+  },
+  {
+    "a": 42,
+    "b": 51,
+    "op": "+",
+    "modulus": 59,
+    "result": 34,
+    "prompt": "Compute 42 + 51 mod 59: 42 + 51 mod 59 ="
+  },
+  {
+    "a": 35,
+    "b": 31,
+    "op": "+",
+    "modulus": 59,
+    "result": 7,
+    "prompt": "Compute 35 + 31 mod 59: 35 + 31 mod 59 ="
+  },
+  {
+    "a": 35,
+    "b": 47,
+    "op": "+",
+    "modulus": 59,
+    "result": 23,
+    "prompt": "Compute 35 + 47 mod 59: 35 + 47 mod 59 ="
+  },
+  {
+    "a": 9,
+    "b": 37,
+    "op": "+",
+    "modulus": 59,
+    "result": 46,
+    "prompt": "Compute 9 + 37 mod 59: 9 + 37 mod 59 ="
+  },
+  {
+    "a": 24,
+    "b": 29,
+    "op": "+",
+    "modulus": 59,
+    "result": 53,
+    "prompt": "Compute 24 + 29 mod 59: 24 + 29 mod 59 ="
+  },
+  {
+    "a": 22,
+    "b": 43,
+    "op": "+",
+    "modulus": 59,
+    "result": 6,
+    "prompt": "Compute 22 + 43 mod 59: 22 + 43 mod 59 ="
+  },
+  {
+    "a": 41,
+    "b": 38,
+    "op": "+",
+    "modulus": 59,
+    "result": 20,
+    "prompt": "Compute 41 + 38 mod 59: 41 + 38 mod 59 ="
+  },
+  {
+    "a": 17,
+    "b": 1,
+    "op": "+",
+    "modulus": 59,
+    "result": 18,
+    "prompt": "Compute 17 + 1 mod 59: 17 + 1 mod 59 ="
+  },
+  {
+    "a": 10,
+    "b": 9,
+    "op": "+",
+    "modulus": 59,
+    "result": 19,
+    "prompt": "Compute 10 + 9 mod 59: 10 + 9 mod 59 ="
+  },
+  {
+    "a": 10,
+    "b": 55,
+    "op": "+",
+    "modulus": 59,
+    "result": 6,
+    "prompt": "Compute 10 + 55 mod 59: 10 + 55 mod 59 ="
+  },
+  {
+    "a": 33,
+    "b": 11,
+    "op": "+",
+    "modulus": 59,
+    "result": 44,
+    "prompt": "Compute 33 + 11 mod 59: 33 + 11 mod 59 ="
+  },
+  {
+    "a": 26,
+    "b": 51,
+    "op": "+",
+    "modulus": 59,
+    "result": 18,
+    "prompt": "Compute 26 + 51 mod 59: 26 + 51 mod 59 ="
+  },
+  {
+    "a": 20,
+    "b": 40,
+    "op": "+",
+    "modulus": 59,
+    "result": 1,
+    "prompt": "Compute 20 + 40 mod 59: 20 + 40 mod 59 ="
+  },
+  {
+    "a": 9,
+    "b": 22,
+    "op": "+",
+    "modulus": 59,
+    "result": 31,
+    "prompt": "Compute 9 + 22 mod 59: 9 + 22 mod 59 ="
+  },
+  {
+    "a": 0,
+    "b": 30,
+    "op": "+",
+    "modulus": 59,
+    "result": 30,
+    "prompt": "Compute 0 + 30 mod 59: 0 + 30 mod 59 ="
+  },
+  {
+    "a": 40,
+    "b": 5,
+    "op": "+",
+    "modulus": 59,
+    "result": 45,
+    "prompt": "Compute 40 + 5 mod 59: 40 + 5 mod 59 ="
+  },
+  {
+    "a": 9,
+    "b": 36,
+    "op": "+",
+    "modulus": 59,
+    "result": 45,
+    "prompt": "Compute 9 + 36 mod 59: 9 + 36 mod 59 ="
+  },
+  {
+    "a": 14,
+    "b": 0,
+    "op": "+",
+    "modulus": 59,
+    "result": 14,
+    "prompt": "Compute 14 + 0 mod 59: 14 + 0 mod 59 ="
+  },
+  {
+    "a": 25,
+    "b": 49,
+    "op": "+",
+    "modulus": 59,
+    "result": 15,
+    "prompt": "Compute 25 + 49 mod 59: 25 + 49 mod 59 ="
+  },
+  {
+    "a": 41,
+    "b": 11,
+    "op": "+",
+    "modulus": 59,
+    "result": 52,
+    "prompt": "Compute 41 + 11 mod 59: 41 + 11 mod 59 ="
+  },
+  {
+    "a": 43,
+    "b": 57,
+    "op": "+",
+    "modulus": 59,
+    "result": 41,
+    "prompt": "Compute 43 + 57 mod 59: 43 + 57 mod 59 ="
+  },
+  {
+    "a": 55,
+    "b": 26,
+    "op": "+",
+    "modulus": 59,
+    "result": 22,
+    "prompt": "Compute 55 + 26 mod 59: 55 + 26 mod 59 ="
+  },
+  {
+    "a": 20,
+    "b": 24,
+    "op": "+",
+    "modulus": 59,
+    "result": 44,
+    "prompt": "Compute 20 + 24 mod 59: 20 + 24 mod 59 ="
+  },
+  {
+    "a": 55,
+    "b": 3,
+    "op": "+",
+    "modulus": 59,
+    "result": 58,
+    "prompt": "Compute 55 + 3 mod 59: 55 + 3 mod 59 ="
+  },
+  {
+    "a": 53,
+    "b": 16,
+    "op": "+",
+    "modulus": 59,
+    "result": 10,
+    "prompt": "Compute 53 + 16 mod 59: 53 + 16 mod 59 ="
+  },
+  {
+    "a": 41,
+    "b": 49,
+    "op": "+",
+    "modulus": 59,
+    "result": 31,
+    "prompt": "Compute 41 + 49 mod 59: 41 + 49 mod 59 ="
+  },
+  {
+    "a": 17,
+    "b": 4,
+    "op": "+",
+    "modulus": 59,
+    "result": 21,
+    "prompt": "Compute 17 + 4 mod 59: 17 + 4 mod 59 ="
+  },
+  {
+    "a": 51,
+    "b": 5,
+    "op": "+",
+    "modulus": 59,
+    "result": 56,
+    "prompt": "Compute 51 + 5 mod 59: 51 + 5 mod 59 ="
+  },
+  {
+    "a": 8,
+    "b": 56,
+    "op": "+",
+    "modulus": 59,
+    "result": 5,
+    "prompt": "Compute 8 + 56 mod 59: 8 + 56 mod 59 ="
+  },
+  {
+    "a": 39,
+    "b": 45,
+    "op": "+",
+    "modulus": 59,
+    "result": 25,
+    "prompt": "Compute 39 + 45 mod 59: 39 + 45 mod 59 ="
+  },
+  {
+    "a": 2,
+    "b": 7,
+    "op": "+",
+    "modulus": 59,
+    "result": 9,
+    "prompt": "Compute 2 + 7 mod 59: 2 + 7 mod 59 ="
+  },
+  {
+    "a": 26,
+    "b": 19,
+    "op": "+",
+    "modulus": 59,
+    "result": 45,
+    "prompt": "Compute 26 + 19 mod 59: 26 + 19 mod 59 ="
+  },
+  {
+    "a": 8,
+    "b": 58,
+    "op": "+",
+    "modulus": 59,
+    "result": 7,
+    "prompt": "Compute 8 + 58 mod 59: 8 + 58 mod 59 ="
+  },
+  {
+    "a": 55,
+    "b": 53,
+    "op": "+",
+    "modulus": 59,
+    "result": 49,
+    "prompt": "Compute 55 + 53 mod 59: 55 + 53 mod 59 ="
+  },
+  {
+    "a": 25,
+    "b": 55,
+    "op": "+",
+    "modulus": 59,
+    "result": 21,
+    "prompt": "Compute 25 + 55 mod 59: 25 + 55 mod 59 ="
+  },
+  {
+    "a": 27,
+    "b": 29,
+    "op": "+",
+    "modulus": 59,
+    "result": 56,
+    "prompt": "Compute 27 + 29 mod 59: 27 + 29 mod 59 ="
+  },
+  {
+    "a": 31,
+    "b": 49,
+    "op": "+",
+    "modulus": 59,
+    "result": 21,
+    "prompt": "Compute 31 + 49 mod 59: 31 + 49 mod 59 ="
+  },
+  {
+    "a": 30,
+    "b": 49,
+    "op": "+",
+    "modulus": 59,
+    "result": 20,
+    "prompt": "Compute 30 + 49 mod 59: 30 + 49 mod 59 ="
+  },
+  {
+    "a": 27,
+    "b": 13,
+    "op": "+",
+    "modulus": 59,
+    "result": 40,
+    "prompt": "Compute 27 + 13 mod 59: 27 + 13 mod 59 ="
+  },
+  {
+    "a": 30,
+    "b": 57,
+    "op": "+",
+    "modulus": 59,
+    "result": 28,
+    "prompt": "Compute 30 + 57 mod 59: 30 + 57 mod 59 ="
+  },
+  {
+    "a": 57,
+    "b": 3,
+    "op": "+",
+    "modulus": 59,
+    "result": 1,
+    "prompt": "Compute 57 + 3 mod 59: 57 + 3 mod 59 ="
+  },
+  {
+    "a": 25,
+    "b": 24,
+    "op": "+",
+    "modulus": 59,
+    "result": 49,
+    "prompt": "Compute 25 + 24 mod 59: 25 + 24 mod 59 ="
+  },
+  {
+    "a": 39,
+    "b": 44,
+    "op": "+",
+    "modulus": 59,
+    "result": 24,
+    "prompt": "Compute 39 + 44 mod 59: 39 + 44 mod 59 ="
+  },
+  {
+    "a": 55,
+    "b": 40,
+    "op": "+",
+    "modulus": 59,
+    "result": 36,
+    "prompt": "Compute 55 + 40 mod 59: 55 + 40 mod 59 ="
+  },
+  {
+    "a": 4,
+    "b": 36,
+    "op": "+",
+    "modulus": 59,
+    "result": 40,
+    "prompt": "Compute 4 + 36 mod 59: 4 + 36 mod 59 ="
+  },
+  {
+    "a": 48,
+    "b": 46,
+    "op": "+",
+    "modulus": 59,
+    "result": 35,
+    "prompt": "Compute 48 + 46 mod 59: 48 + 46 mod 59 ="
+  },
+  {
+    "a": 19,
+    "b": 48,
+    "op": "+",
+    "modulus": 59,
+    "result": 8,
+    "prompt": "Compute 19 + 48 mod 59: 19 + 48 mod 59 ="
+  },
+  {
+    "a": 27,
+    "b": 38,
+    "op": "+",
+    "modulus": 59,
+    "result": 6,
+    "prompt": "Compute 27 + 38 mod 59: 27 + 38 mod 59 ="
+  },
+  {
+    "a": 47,
+    "b": 21,
+    "op": "+",
+    "modulus": 59,
+    "result": 9,
+    "prompt": "Compute 47 + 21 mod 59: 47 + 21 mod 59 ="
+  },
+  {
+    "a": 6,
+    "b": 9,
+    "op": "+",
+    "modulus": 59,
+    "result": 15,
+    "prompt": "Compute 6 + 9 mod 59: 6 + 9 mod 59 ="
+  },
+  {
+    "a": 4,
+    "b": 21,
+    "op": "+",
+    "modulus": 59,
+    "result": 25,
+    "prompt": "Compute 4 + 21 mod 59: 4 + 21 mod 59 ="
+  },
+  {
+    "a": 15,
+    "b": 32,
+    "op": "+",
+    "modulus": 59,
+    "result": 47,
+    "prompt": "Compute 15 + 32 mod 59: 15 + 32 mod 59 ="
+  },
+  {
+    "a": 0,
+    "b": 7,
+    "op": "+",
+    "modulus": 59,
+    "result": 7,
+    "prompt": "Compute 0 + 7 mod 59: 0 + 7 mod 59 ="
+  },
+  {
+    "a": 43,
+    "b": 52,
+    "op": "+",
+    "modulus": 59,
+    "result": 36,
+    "prompt": "Compute 43 + 52 mod 59: 43 + 52 mod 59 ="
+  },
+  {
+    "a": 46,
+    "b": 22,
+    "op": "+",
+    "modulus": 59,
+    "result": 9,
+    "prompt": "Compute 46 + 22 mod 59: 46 + 22 mod 59 ="
+  },
+  {
+    "a": 5,
+    "b": 26,
+    "op": "+",
+    "modulus": 59,
+    "result": 31,
+    "prompt": "Compute 5 + 26 mod 59: 5 + 26 mod 59 ="
+  },
+  {
+    "a": 45,
+    "b": 18,
+    "op": "+",
+    "modulus": 59,
+    "result": 4,
+    "prompt": "Compute 45 + 18 mod 59: 45 + 18 mod 59 ="
+  },
+  {
+    "a": 41,
+    "b": 36,
+    "op": "+",
+    "modulus": 59,
+    "result": 18,
+    "prompt": "Compute 41 + 36 mod 59: 41 + 36 mod 59 ="
+  },
+  {
+    "a": 7,
+    "b": 32,
+    "op": "+",
+    "modulus": 59,
+    "result": 39,
+    "prompt": "Compute 7 + 32 mod 59: 7 + 32 mod 59 ="
+  },
+  {
+    "a": 14,
+    "b": 26,
+    "op": "+",
+    "modulus": 59,
+    "result": 40,
+    "prompt": "Compute 14 + 26 mod 59: 14 + 26 mod 59 ="
+  },
+  {
+    "a": 18,
+    "b": 2,
+    "op": "+",
+    "modulus": 59,
+    "result": 20,
+    "prompt": "Compute 18 + 2 mod 59: 18 + 2 mod 59 ="
+  },
+  {
+    "a": 54,
+    "b": 20,
+    "op": "+",
+    "modulus": 59,
+    "result": 15,
+    "prompt": "Compute 54 + 20 mod 59: 54 + 20 mod 59 ="
+  },
+  {
+    "a": 16,
+    "b": 31,
+    "op": "+",
+    "modulus": 59,
+    "result": 47,
+    "prompt": "Compute 16 + 31 mod 59: 16 + 31 mod 59 ="
+  },
+  {
+    "a": 24,
+    "b": 10,
+    "op": "+",
+    "modulus": 59,
+    "result": 34,
+    "prompt": "Compute 24 + 10 mod 59: 24 + 10 mod 59 ="
+  },
+  {
+    "a": 40,
+    "b": 27,
+    "op": "+",
+    "modulus": 59,
+    "result": 8,
+    "prompt": "Compute 40 + 27 mod 59: 40 + 27 mod 59 ="
+  },
+  {
+    "a": 22,
+    "b": 34,
+    "op": "+",
+    "modulus": 59,
+    "result": 56,
+    "prompt": "Compute 22 + 34 mod 59: 22 + 34 mod 59 ="
+  },
+  {
+    "a": 25,
+    "b": 20,
+    "op": "+",
+    "modulus": 59,
+    "result": 45,
+    "prompt": "Compute 25 + 20 mod 59: 25 + 20 mod 59 ="
+  },
+  {
+    "a": 17,
+    "b": 6,
+    "op": "+",
+    "modulus": 59,
+    "result": 23,
+    "prompt": "Compute 17 + 6 mod 59: 17 + 6 mod 59 ="
+  },
+  {
+    "a": 26,
+    "b": 33,
+    "op": "+",
+    "modulus": 59,
+    "result": 0,
+    "prompt": "Compute 26 + 33 mod 59: 26 + 33 mod 59 ="
+  },
+  {
+    "a": 7,
+    "b": 1,
+    "op": "+",
+    "modulus": 59,
+    "result": 8,
+    "prompt": "Compute 7 + 1 mod 59: 7 + 1 mod 59 ="
+  },
+  {
+    "a": 32,
+    "b": 42,
+    "op": "+",
+    "modulus": 59,
+    "result": 15,
+    "prompt": "Compute 32 + 42 mod 59: 32 + 42 mod 59 ="
+  },
+  {
+    "a": 17,
+    "b": 34,
+    "op": "+",
+    "modulus": 59,
+    "result": 51,
+    "prompt": "Compute 17 + 34 mod 59: 17 + 34 mod 59 ="
+  },
+  {
+    "a": 38,
+    "b": 50,
+    "op": "+",
+    "modulus": 59,
+    "result": 29,
+    "prompt": "Compute 38 + 50 mod 59: 38 + 50 mod 59 ="
+  }
+]

@@ -48,4 +48,13 @@ score.
 ## Project conventions
 - Use test-based development
 - see SLURM.md to run code
+- Use uv to maintain the venv. uv add, not uv pip install.
+- **Smoke test before SLURM**: Every training script must support `--smoke_test N`
+  (default N=10) that runs the full pipeline (train → save → resume → analyze)
+  for N steps and exits cleanly. Run it locally before submitting to SLURM.
+  This catches signature mismatches, missing imports, save/load bugs, etc.
+  in ~30s instead of after hours on the cluster.
+
+## Job monitoring
+Whenever you launch a SLURM job or any long-running background process, stay in the loop until it finishes. Do NOT drop the conversation or move on to unrelated work. Poll periodically with squeue, tail the output/error logs, and report progress. If a job fails, diagnose the error immediately and propose a fix. When it succeeds, report the results.
 
